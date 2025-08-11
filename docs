@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de Investigación Clínica</title>
+</head>
+<body>
+    <h1>Bienvenido al Curso de Investigación Clínica</h1>
+    <p>Aquí encontrarás videos, materiales y enlaces a las clases.</p>
+
+    <h2>Videos</h2>
+    <video controls width="600">
+        <source src="assets/videos/clase1.mp4" type="video/mp4">
+        Tu navegador no soporta la reproducción de video.
+    </video>
+
+    <h2>Materiales</h2>
+    <ul>
+        <li><a href="files/syllabus.pdf" target="_blank">Syllabus del curso</a></li>
+        <li><a href="files/lecturas.pdf" target="_blank">Lecturas recomendadas</a></li>
+    </ul>
+</body>
+</html>
 
